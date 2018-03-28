@@ -3,7 +3,7 @@ Note: This is not a open source code. we created this repo for reporting issues,
 
 ## Useful Links
 - Ionic environment setup: https://codesundar.com/lesson/ionic-cordova-environment-setup-for-windows-mac/
-- Debug Android Apps https://www.youtube.com/watch?v=XEeWFIsgtsU&t=4s
+- Debug Android Apps https://www.youtube.com/watch?v=XEeWFIsgtsU
 - Debug iOS Apps https://www.youtube.com/watch?v=kiY03MBGkLo
 - Change your app icon https://ionicframework.com/docs/cli/cordova/resources/
 
