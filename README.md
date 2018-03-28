@@ -1,7 +1,20 @@
 # Ionic Firebase Chat
-Note: This is not a open source code. we created this repo for reporting issues, displaying upcoming updates and news relavant to our ionic firebase chat product (https://codesundar.com/downloads/ionic-firebase-chat/)
+Note: This is not a open source code. we created this repo for reporting issues, displaying upcoming updates and news relavant to our ionic firebase chat product (https://codesundar.com/downloads/ionic-firebase-chat/). Click Watch button to get updates immediately
+
+## Useful Links
+- Ionic environment setup: https://codesundar.com/lesson/ionic-cordova-environment-setup-for-windows-mac/
+- Debug Android Apps https://www.youtube.com/watch?v=XEeWFIsgtsU&t=4s
+- Debug iOS Apps https://www.youtube.com/watch?v=kiY03MBGkLo
+- Change your app icon https://ionicframework.com/docs/cli/cordova/resources/
+
+## Report Issues / Feature Request
+Feel free to contact me for report any issues or feature request. https://codesundar.com/contact-us
 
 ## Released Updates
+
+### v1.2.1.1
+- Notification sending for twice - Fixed
+- video message issues - Fixed
 
 ### v1.2.1
 
